@@ -1,0 +1,9 @@
+#N canvas 592 22 564 548 10;
+#X obj 186 66 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 166 311 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 87 219 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 151 142 miragebox;
+#X connect 0 0 3 0;

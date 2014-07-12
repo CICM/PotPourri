@@ -1,0 +1,7 @@
+;dag.random.def
+
+LIBRARY dag.random.mxe
+
+EXPORTS
+	main
+

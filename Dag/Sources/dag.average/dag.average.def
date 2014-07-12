@@ -1,0 +1,7 @@
+;pg.average.def
+
+LIBRARY pg.average.mxe
+
+EXPORTS
+	main
+

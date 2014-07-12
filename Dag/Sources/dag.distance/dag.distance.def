@@ -1,0 +1,7 @@
+;dag.distance.def
+
+LIBRARY dag.distance.mxe
+
+EXPORTS
+	main
+

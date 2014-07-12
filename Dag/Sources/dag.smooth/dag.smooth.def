@@ -1,0 +1,7 @@
+;dag.smooth.def
+
+LIBRARY dag.smooth.mxe
+
+EXPORTS
+	main
+

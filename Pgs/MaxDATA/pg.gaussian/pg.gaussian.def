@@ -1,0 +1,7 @@
+;pg.gaussian.def
+
+LIBRARY pg.gaussian.mxe
+
+EXPORTS
+	main
+

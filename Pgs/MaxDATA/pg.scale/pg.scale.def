@@ -1,0 +1,7 @@
+;pg.scale.def
+
+LIBRARY pg.scale.mxe
+
+EXPORTS
+	main
+

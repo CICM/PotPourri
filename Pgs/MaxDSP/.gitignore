@@ -1,0 +1,50 @@
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.rar
+*.zip
+
+# XCode #
+########
+build/
+*.xcconfig
+*.plist
+*.DS_Store
+*.perspectivev3
+*.pbxuser
+*.mode1v3
+project.xcworkspace
+xcuserdata
+*.tm_build_errors
+*.orig
+
+# Visual Studio #
+###############
+*.user
+*.exp
+*.aps
+*.suo
+*.tlog
+*.log
+*.obj
+*.rc
+*.lib
+*.sdf
+*.XML
+*.opensdf
+*.filters
+*.vcxproj.filters
+*.sln
+ipch/
+_UpgradeReport_Files/
+ext_win_debug/
+ext_win_release/

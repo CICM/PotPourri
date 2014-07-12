@@ -1,0 +1,7 @@
+;rlg.def
+
+LIBRARY rlg.mxe
+
+EXPORTS
+	main
+

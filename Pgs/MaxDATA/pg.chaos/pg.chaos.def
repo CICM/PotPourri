@@ -1,0 +1,7 @@
+;pg.chaos.def
+
+LIBRARY pg.chaos.mxe
+
+EXPORTS
+	main
+

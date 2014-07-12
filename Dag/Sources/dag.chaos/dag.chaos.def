@@ -1,0 +1,7 @@
+;dag.chaos.def
+
+LIBRARY dag.chaos.mxe
+
+EXPORTS
+	main
+

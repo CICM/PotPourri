@@ -1,0 +1,7 @@
+;dag.scale.def
+
+LIBRARY dag.scale.mxe
+
+EXPORTS
+	main
+

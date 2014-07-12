@@ -1,0 +1,7 @@
+;statistic.def
+
+LIBRARY statistic.mxe
+
+EXPORTS
+	main
+

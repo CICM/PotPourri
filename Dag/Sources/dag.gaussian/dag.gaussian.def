@@ -1,0 +1,7 @@
+;dag.gaussian.def
+
+LIBRARY dag.gaussian.mxe
+
+EXPORTS
+	main
+

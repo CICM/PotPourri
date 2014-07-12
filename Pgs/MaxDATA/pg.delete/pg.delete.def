@@ -1,0 +1,7 @@
+;pg.delete.def
+
+LIBRARY pg.delete.mxe
+
+EXPORTS
+	main
+
